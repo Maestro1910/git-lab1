@@ -1,3 +1,4 @@
+# calc.py - функции калькулятора
 def add(a, b):
     return a + b
 
